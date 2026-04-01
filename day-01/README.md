@@ -48,7 +48,7 @@ I'm confused if Applications and System libraries means the same thing in the Li
 ---
 ## Key Takeaways
 
-I gained a solid  understanding of Linux basics.
+I have a better understanding of Linux basics.
 
 ---
 
