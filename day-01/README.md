@@ -14,13 +14,13 @@ It is an Operating System built on or inpired by Unix. It is a free, open-source
 #### Linux distribution and their use cases
 A Linux distribution is an operating system built on the Linux kernel, bundled with essential software, tools, and package managers, customized to serve different users like developers, enterprises, cybersecurity professionals, and general users. There are about 600+ Linux distributions. Few popular ones are Ubuntu, Fedora, Kali Linux, Debian, Linux Mint. 
 
-Ubuntu is known for been beginner friendly and mostly used for general use. Debian is the best choice when long term stability and security are prioritized for hosting, cloud setups and corporate systems. For Ethical hacking and cybersecurity use cases Kali Linux is recommended.
+Ubuntu is known for been beginner friendly and mostly used for general use. Debian is the best choice when long-term stability and security are prioritized for hosting, cloud setups and corporate systems. For Ethical hacking and cybersecurity use cases Kali Linux is recommended.
 
 ####  The Linux architecture
 
 Applications  | System Utilities > Shell > Kernel > Hardware
 
-- Application(System libaraies) - system Libraries provide predefined functions that allow application programs and system utilities to access kernel features without interacting with the kernel directly.
+- Application(System libaraies) - System Libraries provide predefined functions that allow application programs and system utilities to access kernel features without interacting with the kernel directly. Examples are GNU C Library (glibc), libpthread (POSIX Threads).
 
 - Kernel - It is the core component of the operating system, that directly interacts with the hardware and manages the hardware resources. It is responsible for memory management, resource allocation, process management, device management, and smooth communication between software and hardware. 
 
@@ -43,7 +43,7 @@ While these three are often used interchangeably as the word "CLI",  they do and
 ---
 ## Challenges Faced
 
-I'm confused if Applications and system libraries are the same in the Linux architecture.
+I'm confused if Applications and System libraries means the same thing in the Linux architecture.
 
 ---
 ## Key Takeaways
