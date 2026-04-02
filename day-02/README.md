@@ -40,8 +40,10 @@ Sub directories in the root are :
 - /mnt - In this directory this is where connected drives are temporarily mounted. This is where their contents become accessible to the system.
 - /srv - Stores server specific data related to services provided by the system.
 
+These are not the only sub-directories that exist tho, because I noticed more than these on my system
+
 #### File system Navigation commands
-These commands are pwd, cd, ls, mkdir, cp, rmdir, rm, du, and mv which I am familiar with asides du which is used for checking directory size  
+These commands are pwd, cd, ls, mkdir, cp, rmdir, rm, du, and mv which I am familiar with asides du which is used for checking directory size.
 
 I got to learn about the command anatomy
 
