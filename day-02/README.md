@@ -76,7 +76,7 @@ I praticed navigating the file system/ directories both as a regular user and ad
 
 ## Challenges Faced
 
-I got confused when I used the cd ~ command and it wouldn't take me to my home directory. Unkown to me /root is the home directory when I'm an admin user. 
+I got confused when I used the `cd ~` command and it wouldn't take me to my home directory. Unkown to me /root is the home directory when for admin users. 
 
 ---
 
