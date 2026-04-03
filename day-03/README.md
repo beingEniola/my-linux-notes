@@ -135,10 +135,11 @@ I praticed using all of the newly learnt commands and hacks.
 
 ## Output
 
-![Praticing Commands](images.image.png)
+![Praticing Commands](images/image.png)
 ---
-![Praticing Commands](images.image2.png)
+![Praticing Commands](images/image2.png)
 ---
-![Praticing Commands](images.image3.png)
+![Praticing Commands](images/image4.png)
 ---
-![Praticing Commands](images.image4.png)
+![Praticing Commands](images/image3.png)
+
