@@ -1,4 +1,4 @@
-# Day 07 - Praticed my 
+# Day 07 - Pratice
 
 ## Objective
 
