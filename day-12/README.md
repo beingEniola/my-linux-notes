@@ -40,6 +40,10 @@ The name and role are the variables, their value is referenced using $ in the se
     - Don't put spaces around the = sign.
     - If the value contains spaces, the value should be put in quotes.
 
+#### Local and Global Variable
+- Local Variable: A local variable is declared inside a function using the local keyword. It exists only during the execution of that function. 
+- Global Variable: A global variable is not defined in a function. It can be accessed both inside and outside the function.
+
 #### Command Substitution
 Command substitution lets you store the output of a command inside a variable.
 
@@ -89,7 +93,7 @@ echo "You are logged in as $USER on $HOSTNAME"
 ```
 
 #### Exporting Variables
-export is used when a variable is needed for subsequent programs
+export is used when a variable is needed for subsequent programs or script.
 
 For example:
 ```
