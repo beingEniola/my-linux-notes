@@ -164,7 +164,3 @@ Control statement are important aspect of loops, thery are used to control the b
 - https://github.com/Najeeb-Sulaiman/linux-and-bash-scripting-guide/blob/main/07-bash-scripting/04-loops-in-bash.md
 
 ---
-
-## Output
-
-(Include links, screenshots, code snippets, or results)
