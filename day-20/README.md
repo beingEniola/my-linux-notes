@@ -1,8 +1,8 @@
-# Day 20 - [Topic]
+# Day 20 - Bash Script Task
 
 ## Objective
 
-What was the goal for today?
+My goal today is to have a look and try working on a Bash Task
 
 ---
 
