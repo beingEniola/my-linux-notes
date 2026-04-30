@@ -1,8 +1,8 @@
-# Day 23 - [Topic]
+# Day 23 - Bash Script Task continuation
 
 ## Objective
 
-What was the goal for today?
+My goal today is to continue working on a Python Project Environment Bootstrapper Bash task
 
 ---
 
